@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="![image](https://github.com/mano209/mano209/assets/141111707/6d9667bc-46f7-4cd9-93d5-bb29337c2e37)
+"  />
 
 ###
 
@@ -16,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
 </div>
 
