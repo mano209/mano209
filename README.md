@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mano and I'm a Frontend Developer, from Banglore</h2>
 
 ###
+
+<p align="left">✨ Creating Projects and Finding bugs <br>📚 I'm currently learning Frontend Development <br>🎯 Goals: Create a projects with responsible design <br>🎲 Fun fact: ..</p>
+
 
 <img align="right" height="150" />
 
