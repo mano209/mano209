@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/brKrB.gif" />
+<img align="right" height="150" <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dRvEZLV0ORAmHT1L5u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/laff-tv-jim-carrey-truman-show-the-dRvEZLV0ORAmHT1L5u">via GIPHY</a></p>/>
 
 ###
 
